@@ -18,4 +18,4 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ## Acknowledgements
 
-This resource is maintained by the Software Sustainability Institute. It was instigated based on an idea by James Hetherington. Contributions have been received by Dominic Orchard, James Hetherington, Mark Stilwell, Neil Chue Hong, Carole Goble.
+This resource is maintained by the Software Sustainability Institute. It was instigated based on an idea by James Hetherington. Contributions have been received by Dominic Orchard, James Hetherington, Mark Stilwell, Neil Chue Hong, Carole Goble, Daniel S. Katz.
