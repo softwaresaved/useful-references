@@ -3,7 +3,7 @@ A list of references to work which provides useful information to those in the r
 
 ## Contributing
 
-To contribute a new reference, [fork this repository](https://help.github.com/articles/fork-a-repo/), make your changes and [create a pull request](https://help.github.com/articles/using-pull-requests/). As part of your changes, please add your new reference in [BibTeX format](http://www.bibtex.org/Format/) in the appropriate place, and add you name to the Acknowledgements in this README (if you wish).
+To contribute a new reference, [fork this repository](https://help.github.com/articles/fork-a-repo/), make your changes and [create a pull request](https://help.github.com/articles/using-pull-requests/). As part of your changes, please add your new reference in [BibTeX format](http://www.bibtex.org/Format/) in the appropriate place, and add your name to the Acknowledgements in this README (if you wish).
 
 ## License
 
